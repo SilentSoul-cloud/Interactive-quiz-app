@@ -1,0 +1,545 @@
+{
+  "easy": [
+    {
+      "question": "Who was the first President of the United States?",
+      "choice1": "Thomas Jefferson",
+      "choice2": "George Washington",
+      "choice3": "Abraham Lincoln",
+      "choice4": "John Adams",
+      "answer": 2
+    },
+    {
+      "question": "What gas do plants absorb from the atmosphere?",
+      "choice1": "Oxygen",
+      "choice2": "Hydrogen",
+      "choice3": "Carbon Dioxide",
+      "choice4": "Nitrogen",
+      "answer": 3
+    },
+    {
+      "question": "What year did World War II end?",
+      "choice1": "1942",
+      "choice2": "1944",
+      "choice3": "1945",
+      "choice4": "1946",
+      "answer": 3
+    },
+    {
+      "question": "Which device do we use to measure temperature?",
+      "choice1": "Barometer",
+      "choice2": "Thermometer",
+      "choice3": "Speedometer",
+      "choice4": "Altimeter",
+      "answer": 2
+    },
+    {
+      "question": "What is the capital of the United Kingdom?",
+      "choice1": "Paris",
+      "choice2": "Berlin",
+      "choice3": "London",
+      "choice4": "Madrid",
+      "answer": 3
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "choice1": "Earth",
+      "choice2": "Jupiter",
+      "choice3": "Mars",
+      "choice4": "Venus",
+      "answer": 3
+    },
+    {
+      "question": "What is 10²?",
+      "choice1": "10",
+      "choice2": "100",
+      "choice3": "20",
+      "choice4": "1000",
+      "answer": 2
+    },
+    {
+      "question": "Which country is famous for the Great Wall?",
+      "choice1": "Japan",
+      "choice2": "India",
+      "choice3": "China",
+      "choice4": "Russia",
+      "answer": 3
+    },
+    {
+      "question": "What organ pumps blood throughout the human body?",
+      "choice1": "Lungs",
+      "choice2": "Kidney",
+      "choice3": "Brain",
+      "choice4": "Heart",
+      "answer": 4
+    },
+    {
+      "question": "Which ocean is the largest?",
+      "choice1": "Atlantic",
+      "choice2": "Indian",
+      "choice3": "Arctic",
+      "choice4": "Pacific",
+      "answer": 4
+    },
+    {
+      "question": "Which invention is attributed to Alexander Graham Bell?",
+      "choice1": "Light bulb",
+      "choice2": "Telephone",
+      "choice3": "Steam engine",
+      "choice4": "Airplane",
+      "answer": 2
+    },
+    {
+      "question": "Which vitamin is known as the sunshine vitamin?",
+      "choice1": "Vitamin C",
+      "choice2": "Vitamin A",
+      "choice3": "Vitamin D",
+      "choice4": "Vitamin B12",
+      "answer": 3
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "choice1": "Leo Tolstoy",
+      "choice2": "William Shakespeare",
+      "choice3": "Mark Twain",
+      "choice4": "Charles Dickens",
+      "answer": 2
+    },
+    {
+      "question": "What is H₂O commonly known as?",
+      "choice1": "Salt",
+      "choice2": "Hydrogen Peroxide",
+      "choice3": "Water",
+      "choice4": "Oxygen",
+      "answer": 3
+    },
+    {
+      "question": "How many continents are there?",
+      "choice1": "5",
+      "choice2": "6",
+      "choice3": "7",
+      "choice4": "8",
+      "answer": 3
+    },
+    {
+      "question": "Which continent is the Sahara Desert located on?",
+      "choice1": "Asia",
+      "choice2": "Africa",
+      "choice3": "Australia",
+      "choice4": "Europe",
+      "answer": 2
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "choice1": "Pablo Picasso",
+      "choice2": "Vincent Van Gogh",
+      "choice3": "Leonardo da Vinci",
+      "choice4": "Michelangelo",
+      "answer": 3
+    },
+    {
+      "question": "What is the main gas in Earth's atmosphere?",
+      "choice1": "Oxygen",
+      "choice2": "Carbon Dioxide",
+      "choice3": "Nitrogen",
+      "choice4": "Helium",
+      "answer": 3
+    },
+    {
+      "question": "Which river is the longest in the world?",
+      "choice1": "Amazon",
+      "choice2": "Yangtze",
+      "choice3": "Nile",
+      "choice4": "Mississippi",
+      "answer": 3
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "choice1": "Au",
+      "choice2": "Ag",
+      "choice3": "Go",
+      "choice4": "Gd",
+      "answer": 1
+    },
+    {
+      "question": "What is the largest land animal?",
+      "choice1": "Giraffe",
+      "choice2": "African Elephant",
+      "choice3": "Rhino",
+      "choice4": "Hippopotamus",
+      "answer": 2
+    },
+    {
+      "question": "What shape is a stop sign?",
+      "choice1": "Circle",
+      "choice2": "Hexagon",
+      "choice3": "Octagon",
+      "choice4": "Triangle",
+      "answer": 3
+    }
+  ],
+  "medium": [
+    {
+      "question": "Which war was triggered by the invasion of Poland in 1939?",
+      "choice1": "World War I",
+      "choice2": "Korean War",
+      "choice3": "World War II",
+      "choice4": "Vietnam War",
+      "answer": 3
+    },
+    {
+      "question": "Which molecule carries genetic instructions in living organisms?",
+      "choice1": "RNA",
+      "choice2": "DNA",
+      "choice3": "ATP",
+      "choice4": "Enzyme",
+      "answer": 2
+    },
+    {
+      "question": "Which US president abolished slavery?",
+      "choice1": "Andrew Jackson",
+      "choice2": "Theodore Roosevelt",
+      "choice3": "Abraham Lincoln",
+      "choice4": "Ulysses S. Grant",
+      "answer": 3
+    },
+    {
+      "question": "What is the main function of ribosomes in a cell?",
+      "choice1": "Energy production",
+      "choice2": "DNA replication",
+      "choice3": "Protein synthesis",
+      "choice4": "Waste removal",
+      "answer": 3
+    },
+    {
+      "question": "Which treaty ended World War I?",
+      "choice1": "Treaty of Versailles",
+      "choice2": "Treaty of Paris",
+      "choice3": "Treaty of London",
+      "choice4": "Treaty of Ghent",
+      "answer": 1
+    },
+    {
+      "question": "Who developed the theory of general relativity?",
+      "choice1": "Isaac Newton",
+      "choice2": "Stephen Hawking",
+      "choice3": "Galileo Galilei",
+      "choice4": "Albert Einstein",
+      "answer": 4
+    },
+    {
+      "question": "In biology, what is mitosis?",
+      "choice1": "Sexual reproduction",
+      "choice2": "Cell death",
+      "choice3": "Cell division",
+      "choice4": "Mutation process",
+      "answer": 3
+    },
+    {
+      "question": "Which programming language is primarily used for AI models?",
+      "choice1": "C++",
+      "choice2": "Python",
+      "choice3": "Java",
+      "choice4": "PHP",
+      "answer": 2
+    },
+    {
+      "question": "What is NATO's full form?",
+      "choice1": "National Treaty of Alliance Organization",
+      "choice2": "North Atlantic Treaty Organization",
+      "choice3": "New Asia Treaty Organization",
+      "choice4": "Neutral Allied Treaty Organization",
+      "answer": 2
+    },
+    {
+      "question": "Which part of the brain controls balance?",
+      "choice1": "Cerebrum",
+      "choice2": "Cerebellum",
+      "choice3": "Medulla",
+      "choice4": "Pons",
+      "answer": 2
+    },
+    {
+      "question": "The first successful powered flight was achieved by?",
+      "choice1": "Amelia Earhart",
+      "choice2": "Neil Armstrong",
+      "choice3": "The Wright Brothers",
+      "choice4": "Buzz Aldrin",
+      "answer": 3
+    },
+    {
+      "question": "Which element has the chemical symbol 'Fe'?",
+      "choice1": "Fluorine",
+      "choice2": "Iron",
+      "choice3": "Francium",
+      "choice4": "Fermium",
+      "answer": 2
+    },
+    {
+      "question": "What is the purpose of a CPU in a computer?",
+      "choice1": "Store memory",
+      "choice2": "Perform calculations",
+      "choice3": "Power the system",
+      "choice4": "Display graphics",
+      "answer": 2
+    },
+    {
+      "question": "Who invented the first vaccine?",
+      "choice1": "Louis Pasteur",
+      "choice2": "Robert Koch",
+      "choice3": "Edward Jenner",
+      "choice4": "Joseph Lister",
+      "answer": 3
+    },
+    {
+      "question": "What branch of science deals with heredity and variation?",
+      "choice1": "Ecology",
+      "choice2": "Biochemistry",
+      "choice3": "Genetics",
+      "choice4": "Pathology",
+      "answer": 3
+    },
+    {
+      "question": "Who formulated the periodic table?",
+      "choice1": "John Dalton",
+      "choice2": "Dmitri Mendeleev",
+      "choice3": "Niels Bohr",
+      "choice4": "Marie Curie",
+      "answer": 2
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "choice1": "Ribosome",
+      "choice2": "Nucleus",
+      "choice3": "Mitochondria",
+      "choice4": "Chloroplast",
+      "answer": 3
+    },
+    {
+      "question": "Which country launched the first satellite into space?",
+      "choice1": "USA",
+      "choice2": "Germany",
+      "choice3": "USSR",
+      "choice4": "China",
+      "answer": 3
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "choice1": "Toronto",
+      "choice2": "Montreal",
+      "choice3": "Vancouver",
+      "choice4": "Ottawa",
+      "answer": 4
+    },
+    {
+      "question": "What part of the plant conducts photosynthesis?",
+      "choice1": "Stem",
+      "choice2": "Roots",
+      "choice3": "Leaves",
+      "choice4": "Flowers",
+      "answer": 3
+    },
+    {
+      "question": "Which battle marked the turning point of WWII in Europe?",
+      "choice1": "Battle of Britain",
+      "choice2": "Battle of the Bulge",
+      "choice3": "Battle of Stalingrad",
+      "choice4": "Battle of Normandy",
+      "answer": 3
+    },
+    {
+      "question": "What is the chemical symbol for potassium?",
+      "choice1": "Po",
+      "choice2": "K",
+      "choice3": "P",
+      "choice4": "Pt",
+      "answer": 2
+    },
+    {
+      "question": "Which layer of Earth do we live on?",
+      "choice1": "Core",
+      "choice2": "Mantle",
+      "choice3": "Crust",
+      "choice4": "Inner core",
+      "answer": 3
+    },
+    {
+      "question": "Which famous quote starts with 'To be or not to be...'?",
+      "choice1": "The Odyssey",
+      "choice2": "Macbeth",
+      "choice3": "Hamlet",
+      "choice4": "King Lear",
+      "answer": 3
+    },
+    {
+      "question": "What is the process by which plants lose water?",
+      "choice1": "Evaporation",
+      "choice2": "Respiration",
+      "choice3": "Photosynthesis",
+      "choice4": "Transpiration",
+      "answer": 4
+    },
+    {
+      "question": "Which blood type is considered universal donor?",
+      "choice1": "AB+",
+      "choice2": "O+",
+      "choice3": "O‑",
+      "choice4": "A‑",
+      "answer": 3
+    },
+    {
+      "question": "Who is credited with discovering penicillin?",
+      "choice1": "Alexander Fleming",
+      "choice2": "Marie Curie",
+      "choice3": "Gregor Mendel",
+      "choice4": "Isaac Newton",
+      "answer": 1
+    },
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "choice1": "Lead",
+      "choice2": "Mercury",
+      "choice3": "Aluminum",
+      "choice4": "Zinc",
+      "answer": 2
+    },
+    {
+      "question": "Which city is known as the Silicon Valley of India?",
+      "choice1": "Hyderabad",
+      "choice2": "Bangalore",
+      "choice3": "Mumbai",
+      "choice4": "Chennai",
+      "answer": 2
+    },
+    {
+      "question": "Which war was the Battle of Gettysburg part of?",
+      "choice1": "American Revolution",
+      "choice2": "Mexican-American War",
+      "choice3": "Civil War",
+      "choice4": "World War I",
+      "answer": 3
+    }
+  ],
+  "hard": [
+    {
+      "question": "Which protein structure is stabilized by hydrogen bonds in an alpha helix?",
+      "choice1": "Primary",
+      "choice2": "Secondary",
+      "choice3": "Tertiary",
+      "choice4": "Quaternary",
+      "answer": 2
+    },
+
+    {
+      "question": "What was Operation Barbarossa?",
+      "choice1": "A Cold War strategy",
+      "choice2": "D-Day codename",
+      "choice3": "Nazi invasion of USSR",
+      "choice4": "US Pacific bombing raid",
+      "answer": 3
+    },
+    {
+      "question": "What type of bond connects nucleotides in a DNA strand?",
+      "choice1": "Ionic",
+      "choice2": "Hydrogen",
+      "choice3": "Phosphodiester",
+      "choice4": "Peptide",
+      "answer": 3
+    },
+    {
+      "question": "Who is known for the theory of general relativity?",
+      "choice1": "Isaac Newton",
+      "choice2": "Galileo Galilei",
+      "choice3": "Albert Einstein",
+      "choice4": "Stephen Hawking",
+      "answer": 3
+    },
+    {
+      "question": "Which region of the brain is essential for speech production?",
+      "choice1": "Wernicke’s area",
+      "choice2": "Broca’s area",
+      "choice3": "Medulla",
+      "choice4": "Thalamus",
+      "answer": 2
+    },
+    {
+      "question": "Which programming concept does recursion rely on?",
+      "choice1": "Looping",
+      "choice2": "Conditionals",
+      "choice3": "Function calls",
+      "choice4": "Pointers",
+      "answer": 3
+    },
+    {
+      "question": "In which year was the Human Genome Project completed?",
+      "choice1": "2001",
+      "choice2": "2003",
+      "choice3": "2005",
+      "choice4": "1999",
+      "answer": 2
+    },
+    {
+      "question": "Who led the Chinese Communist Revolution?",
+      "choice1": "Sun Yat-sen",
+      "choice2": "Chiang Kai-shek",
+      "choice3": "Mao Zedong",
+      "choice4": "Deng Xiaoping",
+      "answer": 3
+    },
+    {
+      "question": "What is Moore’s Law related to?",
+      "choice1": "Battery lifespan",
+      "choice2": "Quantum mechanics",
+      "choice3": "Transistor growth",
+      "choice4": "Network latency",
+      "answer": 3
+    },
+    {
+      "question": "What is the smallest unit of life?",
+      "choice1": "Atom",
+      "choice2": "Molecule",
+      "choice3": "Organelle",
+      "choice4": "Cell",
+      "answer": 4
+    },
+    {
+      "question": "What’s the most abundant protein in the human body?",
+      "choice1": "Actin",
+      "choice2": "Myosin",
+      "choice3": "Collagen",
+      "choice4": "Keratin",
+      "answer": 3
+    },
+    {
+      "question": "What does the Second Law of Thermodynamics state?",
+      "choice1": "Energy cannot be created or destroyed",
+      "choice2": "Entropy always increases",
+      "choice3": "Force equals mass times acceleration",
+      "choice4": "For every action, there's an equal and opposite reaction",
+      "answer": 2
+    },
+    {
+      "question": "Which programming language is primarily used for data science?",
+      "choice1": "Python",
+      "choice2": "C++",
+      "choice3": "Java",
+      "choice4": "PHP",
+      "answer": 1
+    },
+    {
+      "question": "Which historical document limited the power of English monarchs?",
+      "choice1": "Magna Carta",
+      "choice2": "Constitution",
+      "choice3": "Bill of Rights",
+      "choice4": "Treaty of Versailles",
+      "answer": 1
+    },
+    {
+      "question": "What breakthrough tool uses Cas9 to modify genes?",
+      "choice1": "PCR",
+      "choice2": "CRISPR",
+      "choice3": "RNAi",
+      "choice4": "Nanotubes",
+      "answer": 2
+    }
+  ]
+}

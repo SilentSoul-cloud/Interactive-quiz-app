@@ -1,0 +1,155 @@
+root {
+    background-color: #ecf5ff;
+    font-size: 60%;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+h1,h2,h3,h4 {
+    margin-bottom: 1rem;
+}
+
+h1 {
+    font-size: 3.4rem;
+    color: #56a5eb;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+h1>span {
+    font-size: 2.4rem;
+    font-weight: 500;
+}
+
+h2 {
+    font-size: 2.4rem;
+    margin-bottom: 4rem;
+    font-weight: 500;
+}
+
+h3 {
+    font-size: 2.8rem;
+    font-weight: 500;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 80rem;
+    margin: 0 auto;
+}
+
+.container>* {
+    width: 90%;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.justify-center {
+    display: flex;
+    justify-content: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+.btn {
+    font-size: 1.8rem;
+    padding: 1rem 0;
+    width: 20rem;
+    text-align: center;
+    border: 0.15rem solid #4e9fe6;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    color: #2c82ce;
+    background-color: rgb(223, 239, 255);
+}
+
+.btn:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(31, 108, 146, 0.5);
+    transform: translateY(-0.3rem);
+    transition: transform .13s;
+}
+
+.btn[disabled]:hover {
+    cursor: not-allowed;
+    box-shadow: none;
+    transform: none;
+}
+
+/* Highscores.css */
+
+ul {
+    width: 90%;
+    max-width: 70rem;
+    height: 60vh;
+    overflow-y: auto;
+    border: 0.1rem solid #56a5eb;
+    border-radius: 0.5rem;
+    text-align: center;
+    font-size: 1.8rem;
+    color: #56a5eb;
+}
+
+li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.8rem;
+}
+
+@media screen and (max-width: 600px) {
+    h1 {
+        font-size: 2.8rem;
+    }
+
+    h2 {
+        font-size: 2rem;
+    }
+
+    h3 {
+        font-size: 2.4rem;
+    }
+
+    .btn {
+        width: 100%;
+        font-size: 1.6rem;
+    }
+
+    ul {
+        font-size: 1.6rem;
+    }
+
+    #finalScore {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: -20rem;
+        margin-bottom: 5rem;
+    }
+}

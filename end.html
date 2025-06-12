@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MindMetric</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="game.css">
+</head>
+<body>
+    <h1>Quiz Completed</h1>
+    <div class="container">
+        <div id="home" class="flex-center flex-column">
+            <h2 id="finalScore"></h2>
+            <form>
+                <input type="text" name="username" id="username" placeholder="Enter your username" required>
+                <br>
+                <button type="submit" class="btn" id="saveScoreBtn" onclick="saveHighScore()" disabled>Submit Score</button>
+            </form>
+            <a class="btn" href="game.html">Play Again</a>
+            <a class="btn" href="index.html">Home</a>
+        </div>
+    </div>
+    </div>
+    <script src="end.js"></script>
+</body>
+</html>

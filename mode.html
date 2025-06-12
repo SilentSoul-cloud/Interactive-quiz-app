@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Select Mode - QMindMetric</title>
+    <link rel="stylesheet" href="mode.css" />
+  </head>
+  <body>
+    <div id="container" class="mode-container">
+      <h1>Welcome to Quick Quiz 🎉</h1>
+      <p class="description">Choose your challenge level below to begin!</p>
+
+      <div class="tip">Tip: Start with Easy if you're just warming up.</div>
+    </div>
+
+    <script>
+      fetch("question.json")
+        .then((res) => res.json())
+        .then((data) => {
+          const container = document.getElementById("container");
+          const modes = Object.keys(data); // ['easy', 'medium', 'hard']
+
+          modes.forEach((mode) => {
+            const btn = document.createElement("btn");
+            btn.innerText = mode.charAt(0).toUpperCase() + mode.slice(1);
+            btn.classList.add("btn");
+            btn.onclick = () => {
+              window.location.href = `game.html?mode=${mode}`;
+            };
+            container.appendChild(btn);
+          });
+        })
+        .catch((err) => {
+          console.error("Failed to load questions.json", err);
+          document.getElementById("container").innerHTML =
+            "<p class='error'>Oops! Couldn't load quiz options. Please try again later.</p>";
+        });
+    </script>
+  </body>
+</html>
